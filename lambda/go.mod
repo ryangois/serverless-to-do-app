@@ -1,4 +1,4 @@
-module github.com/seu-usuario/todo-app
+module github.com/ryangois/todo-app
 
 go 1.21
 
