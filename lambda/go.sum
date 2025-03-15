@@ -1,0 +1,6 @@
+github.com/aws/aws-lambda-go v1.43.0 h1:2mB1y4Q+y7PuV5X6fbbFqRTwNXY6eTZByJICrj1Bt+Q=
+github.com/aws/aws-lambda-go v1.43.0/go.mod h1:EmK5Z5AQWctOWTVKXaGFmZLv3N8T/JgcmU3YhDh2s5o=
+github.com/aws/aws-sdk-go-v2 v1.25.3 h1:B7v2DWj2zQ2c3RyqqluU53oQ67B85EAlw9ZkP2YXKf8=
+github.com/aws/aws-sdk-go-v2 v1.25.3/go.mod h1:YZ2AnA6y7Q6Dfqx8QGmQgh7bkoFjEMoLsHUQroDk7Q0=
+github.com/gorilla/mux v1.8.0 h1:A0NzHkREdQOR2TRrTgEPlpm9xOAsHPEJk15FqB1TwUE=
+github.com/gorilla/mux v1.8.0/go.mod h1:7dME4sM9Wmr+8X44PgL6KhIdXXS9is29XG3vKP5QSRQ=
